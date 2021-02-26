@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    padding: 0px 15px;
+    position: relative;
+}
+
+#scrollBar {
+    width: 0;
+    height: 20px;
+    position: sticky;
+    top: 0;
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
