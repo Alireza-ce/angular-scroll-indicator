@@ -1,13 +1,13 @@
 # ScrollIndicator
 
-## Demo
-
-https://scroll-indicator-angular.netlify.app
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 Scroll indicator directive helps you to show the progress bar line at the top of the articles. 
+
+
+## Demo
+
+https://scroll-indicator-angular.netlify.app
 
 
 ![](scoll-indicator.gif)
